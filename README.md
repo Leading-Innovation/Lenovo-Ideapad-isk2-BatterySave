@@ -5,6 +5,15 @@ Lenovo ISK2 (Yoga 900) has battery conservation feature. This feature limit batt
 
 With this program, you can configure this feature without windows.
 
+Usage
+  btconsv command
+  command:
+      f         full charge
+      l         limited charge
+      g         get current status
+      d         dump ec reg
+*you need root privilege
+
 This program may work on ISK1.
 With efforts, you may manage other laptops. This program supports dump mode. Change the status with windows and look into what have changed. Then you can modify this program.
 
